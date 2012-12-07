@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp-lib", "cpp-lib\cpp-lib-08.vcproj", "{EC2ABF62-EA2A-4F6F-A315-D52DA9E8767E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "inc-dll", "inc-dll\inc-dll-08.vcproj", "{787AA471-4516-40CE-9617-B65B3B58A7A6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "platform", "platform\platform.vcproj", "{BF01ECF9-49C7-49CD-988F-3EE5BE52EB6B}"
+EndProject
+Global
+	GlobalSection(DPCodeReviewSolutionGUID) = preSolution
+		DPCodeReviewSolutionGUID = {00000000-0000-0000-0000-000000000000}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC2ABF62-EA2A-4F6F-A315-D52DA9E8767E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EC2ABF62-EA2A-4F6F-A315-D52DA9E8767E}.Debug|Win32.Build.0 = Debug|Win32
+		{EC2ABF62-EA2A-4F6F-A315-D52DA9E8767E}.Release|Win32.ActiveCfg = Release|Win32
+		{EC2ABF62-EA2A-4F6F-A315-D52DA9E8767E}.Release|Win32.Build.0 = Release|Win32
+		{787AA471-4516-40CE-9617-B65B3B58A7A6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{787AA471-4516-40CE-9617-B65B3B58A7A6}.Debug|Win32.Build.0 = Debug|Win32
+		{787AA471-4516-40CE-9617-B65B3B58A7A6}.Release|Win32.ActiveCfg = Release|Win32
+		{787AA471-4516-40CE-9617-B65B3B58A7A6}.Release|Win32.Build.0 = Release|Win32
+		{BF01ECF9-49C7-49CD-988F-3EE5BE52EB6B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BF01ECF9-49C7-49CD-988F-3EE5BE52EB6B}.Debug|Win32.Build.0 = Debug|Win32
+		{BF01ECF9-49C7-49CD-988F-3EE5BE52EB6B}.Release|Win32.ActiveCfg = Release|Win32
+		{BF01ECF9-49C7-49CD-988F-3EE5BE52EB6B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
